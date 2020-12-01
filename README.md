@@ -1,7 +1,5 @@
 # These are the current mods being used by the server:
 
-
-
 WORLD GEN:
 
 
