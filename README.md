@@ -7,6 +7,7 @@ Will eventually mark which are server-side only.
 May not incl. admin-only type mods.
 
 --------------
+
 WORLD GEN:
 
 
@@ -17,7 +18,7 @@ Lost Cities:
 Will likely be in separate/own world than regular BoP survival.
 https://www.curseforge.com/minecraft/mc-mods/the-lost-cities
 
----
+--------------
 
 Better Caves:
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves
@@ -33,8 +34,8 @@ https://www.curseforge.com/minecraft/mc-mods/repurposed-structures
 
 Undergarden:
 https://www.curseforge.com/minecraft/mc-mods/the-undergarden
---------------
 
+--------------
 
 MECHANICS:
 
@@ -49,6 +50,7 @@ Security Craft:
 https://www.curseforge.com/minecraft/mc-mods/security-craft
 
 -------------
+
 Better Shields:
 https://www.curseforge.com/minecraft/mc-mods/better-shields
 
@@ -81,8 +83,8 @@ https://www.curseforge.com/minecraft/mc-mods/trashslot
 
 Traveler's Backpack:
 https://www.curseforge.com/minecraft/mc-mods/travelers-backpack/files
---------------
 
+--------------
 
 NEW BLOCKS/MOBS:
 
