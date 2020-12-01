@@ -77,8 +77,8 @@ NEW BLOCKS/MOBS:
 
 --------------
 
-Not final
-Status: Running, unconfigured
-Will eventually mark which are server-side only.
-May not incl. admin-only type mods.
-Version 0.1
+Not final  
+Status: Running, unconfigured  
+Will eventually mark which are server-side only.  
+May not incl. admin-only type mods.  
+Version 0.1  
