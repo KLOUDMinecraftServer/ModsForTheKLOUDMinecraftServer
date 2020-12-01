@@ -1,117 +1,116 @@
+<a href="">Insert</a>
+
 # These are the current mods being used by the server:
 
 WORLD GEN:
 
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O'Plenty:</a>
-https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+<a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O'Plenty</a>
 
-Lost Cities:
-Will likely be in separate/own world than regular BoP survival.
-https://www.curseforge.com/minecraft/mc-mods/the-lost-cities
+<a href="https://www.curseforge.com/minecraft/mc-mods/the-lost-cities">Lost Cities</a>
 
 --------------
-
-Better Caves:
+<a href="">Insert</a>
+Better Caves
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves
-
-Bumblezone:
+<a href="">Insert</a>
+Bumblezone
 https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge
-
-Dungeon Crawl:
+<a href="">Insert</a>
+Dungeon Crawl
 https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl
-
-Extended Caves:
+<a href="">Insert</a>
+Extended Caves
 https://www.curseforge.com/minecraft/mc-mods/extended-caves
-
-Repurposed Structures:
+<a href="">Insert</a>
+Repurposed Structures
 https://www.curseforge.com/minecraft/mc-mods/repurposed-structures
-
-Undergarden:
+<a href="">Insert</a>
+Undergarden
 https://www.curseforge.com/minecraft/mc-mods/the-undergarden
 
 --------------
 
 MECHANICS:
 
-
-Applied Energistics 2:
+<a href="">Insert</a>
+Applied Energistics 2
 https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
-
-Immersive Engineering:
+<a href="">Insert</a>
+Immersive Engineering
 https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
-
-Mekanism:
+<a href="">Insert</a>
+Mekanism
 https://www.curseforge.com/minecraft/mc-mods/mekanism
-
-Security Craft:
+<a href="">Insert</a>
+Security Craft
 https://www.curseforge.com/minecraft/mc-mods/security-craft
 
 --------------
-
-Better Shields:
+<a href="">Insert</a>
+Better Shields
 https://www.curseforge.com/minecraft/mc-mods/better-shields
-
-Cosmetic Armor:
+<a href="">Insert</a>
+Cosmetic Armor
 https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
-
-Doggy Talents:
+<a href="">Insert</a>
+Doggy Talents
 https://www.curseforge.com/minecraft/mc-mods/doggy-talents
-
-Falling Tree:
+<a href="">Insert</a>
+Falling Tree
 https://www.curseforge.com/minecraft/mc-mods/falling-tree
-
-Music Maker:
+<a href="">Insert</a>
+Music Maker
 https://www.curseforge.com/minecraft/mc-mods/music-maker-mod
-
-Regrowth:
+<a href="">Insert</a>
+Regrowth
 https://www.curseforge.com/minecraft/mc-mods/regrowth
-
-Scuba Gear:
+<a href="">Insert</a>
+Scuba Gear
 https://www.curseforge.com/minecraft/mc-mods/scuba-gear
-
-Spiders 2.0:
+<a href="">Insert</a>
+Spiders 2.0
 https://www.curseforge.com/minecraft/mc-mods/spiders-2-0
-
-Step:
+<a href="">Insert</a>
+Step
 https://www.curseforge.com/minecraft/mc-mods/step
-
-Thut's Elevators:
+<a href="">Insert</a>
+Thut's Elevators
 https://www.curseforge.com/minecraft/mc-mods/thuts-elevators
-
-Trash slot:
+<a href="">Insert</a>
+Trash slot
 https://www.curseforge.com/minecraft/mc-mods/trashslot
-
-Traveler's Backpack:
+<a href="">Insert</a>
+Traveler's Backpack
 https://www.curseforge.com/minecraft/mc-mods/travelers-backpack/files
 
 --------------
 
 NEW BLOCKS/MOBS:
 
-
-Connected Glass:
+<a href="">Insert</a>
+Connected Glass
 https://www.curseforge.com/minecraft/mc-mods/connected-glass
-
-Dustrial Decor:
+<a href="">Insert</a>
+Dustrial Decor
 https://www.curseforge.com/minecraft/mc-mods/dustrial-decor
-
-Earth Mobs:
+<a href="">Insert</a>
+Earth Mobs
 https://www.curseforge.com/minecraft/mc-mods/earth-mobs
-
-Engineer's Decor:
+<a href="">Insert</a>
+Engineer's Decor
 https://www.curseforge.com/minecraft/mc-mods/engineers-decor
-
-Extra Golems:
+<a href="">Insert</a>
+Extra Golems
 https://www.curseforge.com/minecraft/mc-mods/extra-golems
-
-Macaw's Bridges:
+<a href="">Insert</a>
+Macaw's Bridges
 https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
-
-Pane in the Glass:
+<a href="">Insert</a>
+Pane in the Glass
 https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass
-
-Variant16x:
+<a href="">Insert</a>
+Variant16x
 https://www.curseforge.com/minecraft/mc-mods/variant16x
 
 --------------
