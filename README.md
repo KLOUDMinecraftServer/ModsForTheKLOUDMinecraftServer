@@ -3,7 +3,7 @@
 WORLD GEN:
 
 
-Biomes O'Plenty:
+<a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O'Plenty:</a>
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 
 Lost Cities:
