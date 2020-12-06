@@ -19,6 +19,8 @@ WORLD GEN:
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/the-undergarden">Undergarden</a>
 
+<a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark</a>
+
 --------------
 
 MECHANICS:
@@ -77,8 +79,14 @@ NEW BLOCKS/MOBS:
 
 --------------
 
+PERMISSIONS:
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/autoreglib/files">AutoRegLib</a>
+
+--------------
+
 Not final  
 Status: running, unconfigured  
 Will eventually mark which are server-side only  
 May not include admin-only type mods  
-Version 0.2  
+Version 0.3  
