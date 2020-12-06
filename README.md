@@ -19,6 +19,8 @@ WORLD GEN:
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/the-undergarden">Undergarden</a>
 
+<a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark</a>
+
 --------------
 
 MECHANICS:
@@ -74,6 +76,12 @@ NEW BLOCKS/MOBS:
 <a href="https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass">Pane in the Glass</a>
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/variant16x">Variant16x</a>
+
+--------------
+
+PERMISSIONS:
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/autoreglib/files">AutoRegLib</a>
 
 --------------
 
