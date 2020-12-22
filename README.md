@@ -21,6 +21,10 @@ WORLD GEN:
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark</a>
 
+<a href="https://www.curseforge.com/minecraft/mc-mods/worldedit">World Edit</a>
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/just-another-void-dimension">Just Another Void Dimension</a>
+
 --------------
 
 MECHANICS:
@@ -95,4 +99,4 @@ Not final
 Status: running, unconfigured  
 Will eventually mark which are server-side only  
 May not include admin-only type mods  
-Version 0.6  
+Version 0.7  
