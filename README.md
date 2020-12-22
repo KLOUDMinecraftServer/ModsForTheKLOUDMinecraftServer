@@ -77,6 +77,12 @@ NEW BLOCKS/MOBS:
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/variant16x">Variant16x</a>
 
+<a href="https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/files">Better Animals Plus</a>
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/alexs-mobs">Alex's Mod</a>
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/citadel/files/3131923">Citadel</a>
+
 --------------
 
 PERMISSIONS:
@@ -89,4 +95,4 @@ Not final
 Status: running, unconfigured  
 Will eventually mark which are server-side only  
 May not include admin-only type mods  
-Version 0.5  
+Version 0.6  
