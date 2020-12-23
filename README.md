@@ -85,7 +85,7 @@ NEW BLOCKS/MOBS:
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/alexs-mobs">Alex's Mod</a>
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/citadel/files/3131923">Citadel</a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/citadel">Citadel</a>
 
 --------------
 
