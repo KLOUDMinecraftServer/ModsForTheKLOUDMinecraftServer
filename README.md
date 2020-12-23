@@ -99,4 +99,4 @@ Not final
 Status: running, unconfigured  
 Will eventually mark which are server-side only  
 May not include admin-only type mods  
-Version 0.7  
+Version 0.8  
